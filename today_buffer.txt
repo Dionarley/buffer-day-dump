@@ -33,3 +33,22 @@ Como testar seu nível de matemática básica?
 Qual a importância de avançar sem saber tudo?
 Como usar a engenharia reversa no estudo?
 --------------------------
+
+qua 18 mar 2026 13:11:10 -03
+
+A Lei Felca (Lei nº 15.211/2025), ou "ECA Digital", em vigor desde março de 2026, impõe regras rígidas de proteção de menores, afetando empresas de tecnologia como a Canonical (fabricante do Ubuntu), que consta na lista de monitoramento. A lei exige controle parental e verificação de idade, o que pode forçar adaptações no Linux e nas lojas de aplicativos, gerando debates sobre o futuro do software livre no Brasil. 
+TecMundo
+TecMundo
+ +3
+Pontos principais sobre Canonical e a Lei Felca:
+Monitoramento: A Canonical, detentora da marca Ubuntu, está entre as empresas monitoradas pela ANPD no Brasil para verificar a conformidade com a nova legislação.
+Desafios do Linux: A legislação exige mecanismos eficazes de identificação de idade (proibindo apenas a autodeclaração) e controle parental. Sistemas de código aberto, como o Linux, enfrentam desafios para implementar essas camadas de segurança de forma centralizada e obrigatória, conforme a lei.
+Riscos de Bloqueio: Especialistas alertam que a falta de adaptação da loja de aplicativos (Snap Store) e dos sistemas à nova lei pode acarretar sanções, incluindo o bloqueio de serviços, embora a lei preveja ponderações sobre a finalidade social e o impacto na comunidade.
+Contexto da Lei: A Lei Felca foi criada para combater a adultização e a exploração de crianças e adolescentes na internet, focando em conteúdos, plataformas sociais e ferramentas digitais.
+Natureza da Lei: A legislação obriga empresas a oferecerem ferramentas de supervisão parental e canais de denúncia, impactando desde redes sociais até softwares distribuídos no país. 
+TecMundo
+TecMundo
+ +6
+Embora a lei tenha potencial de impacto, especialistas indicam que o kernel Linux e tecnologias de infraestrutura podem ser considerados "funcionalidades essenciais" (Art. 2º, § 2º), o que poderia eximi-los de certas restrições aplicadas a aplicativos de consumo.
+
+--------------------------
